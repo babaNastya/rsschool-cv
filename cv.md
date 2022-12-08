@@ -37,14 +37,3 @@ ___
 * JavaScript(in the process)
 
 ___
-
-## Education
-
-* SGC named after A.A. Kuleshov
-
-___
-
-## Languages
-
-* Russia-native speaker
-* English-int the process
