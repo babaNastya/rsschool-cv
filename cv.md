@@ -1,4 +1,4 @@
-# Danil OStrovsky
+# Daniel Ostrovsky
 
 ## Contacts
 
