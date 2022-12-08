@@ -47,5 +47,5 @@ ___
 
 ## Languages
 
-* Russia-native speaker
+* Russian-native speaker
 * English-int the process
